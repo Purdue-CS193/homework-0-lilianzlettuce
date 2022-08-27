@@ -1,4 +1,10 @@
-# ur MOM
+# Lilian Zhao's First CS193 Homework
+
+### My favorite things about CS193: 
+- free spinach 
+- weekly pirahna showdown 
+- not a gym class 
+- it is good 
 
 ## Welcome to GitHub Pages
 
